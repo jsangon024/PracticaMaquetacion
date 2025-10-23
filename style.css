@@ -1,9 +1,15 @@
 *{
     box-sizing: border-box;
+<<<<<<< HEAD
     
 }
 body{
     width: 78%;
+=======
+}
+body{
+    width: 70%;
+>>>>>>> cf881f82349f390e53daf44a77ae86c6e1f14a8e
     height: 100%;
     margin: 0 auto;
 }
@@ -13,7 +19,10 @@ div{
     display: inline-block;
     border-width: 1px;
     border-radius: 10px;
+<<<<<<< HEAD
     margin-top: 2%;
+=======
+>>>>>>> cf881f82349f390e53daf44a77ae86c6e1f14a8e
 }
 
 #header{
@@ -30,15 +39,20 @@ div{
     border-style: solid;
     margin-top: 1%;
     position: relative;
+<<<<<<< HEAD
     left: 90.03%;
     bottom: 7%;
     border-radius: 6px;
     border-color: black;
+=======
+    left: 90.03%
+>>>>>>> cf881f82349f390e53daf44a77ae86c6e1f14a8e
 }
 
 .azul{
     background-color: blue;
     color: white;
+<<<<<<< HEAD
 }
 
 #cabecera{
@@ -109,4 +123,6 @@ div{
     height: 22.5em;
     background-color: aqua;
     border: unset;
+=======
+>>>>>>> cf881f82349f390e53daf44a77ae86c6e1f14a8e
 }

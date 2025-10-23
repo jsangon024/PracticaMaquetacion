@@ -1,0 +1,112 @@
+*{
+    box-sizing: border-box;
+    
+}
+body{
+    width: 78%;
+    height: 100%;
+    margin: 0 auto;
+}
+
+div{
+    border-style: solid;
+    display: inline-block;
+    border-width: 1px;
+    border-radius: 10px;
+    margin-top: 2%;
+}
+
+#header{
+    width: 100%;
+    height: 8em;
+    margin-top: 1%;
+}
+
+#buscar{
+    background-color: red;
+    color: white;
+    width: 10%;
+    text-align: center;
+    border-style: solid;
+    margin-top: 1%;
+    position: relative;
+    left: 90.03%;
+    bottom: 7%;
+    border-radius: 6px;
+    border-color: black;
+}
+
+.azul{
+    background-color: blue;
+    color: white;
+}
+
+#cabecera{
+    width: 13%;
+    height: 1.7em;
+    text-align: center;
+    font-size: 1.5em;
+    font-weight: bold;
+    margin: 0 auto;
+    padding-top: 5px;
+    position: relative;
+    top: 15%;
+    right: 6%;
+    
+}
+
+#enlaces{
+    width: 100%;
+    height: 10vh;
+}
+
+.cajaEnlace{
+    text-align: center;
+    display: inline-block;
+    width: 24%;
+    border-radius: 1px;
+    vertical-align: top;
+    margin-top: 0;
+}
+
+#enlaces2{
+    width: 30%;
+    margin-right: 2.73%;
+    height: 43vh;
+    vertical-align: top;
+}
+
+.cajaEnlaces2{
+    display: block;
+    border: unset;
+    margin-top: 0;
+    margin-bottom: 5%;
+}
+
+
+#cajaImagenes{
+    width: 67%;
+    height: 43vh;
+    background-color:springgreen;
+    padding-top: 0.5%;
+    padding-left: 2%;
+    padding-right: 0.5%;
+    padding-bottom: 0.5%;
+    border: unset;
+}
+
+#imagen{
+    width: 42%;
+    height: 22.5em;
+    vertical-align: top;
+    margin-right: 3%;
+    background-color: aqua;
+    border: unset;
+}
+
+#textosCentrales{
+    width: 52%;
+    height: 22.5em;
+    background-color: aqua;
+    border: unset;
+}
